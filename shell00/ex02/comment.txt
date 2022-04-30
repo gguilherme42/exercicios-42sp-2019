@@ -1,0 +1,1 @@
+ I couldn't show the symbolic link mode that I changed in 'ls -l'
