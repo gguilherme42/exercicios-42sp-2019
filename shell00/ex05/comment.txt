@@ -1,0 +1,3 @@
+In this exercise, you use pipes to put the output result into other command, in case, the cat command usign the '|' pipe operator the change the normal output to the command input.
+
+>>> 'bash git_commit.sh | cat -e'
